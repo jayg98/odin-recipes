@@ -3,3 +3,7 @@
   width: 200px;
   border: 5px solid #555;
 }
+
+* {
+  font-family: cursive, sans-serif;
+}
